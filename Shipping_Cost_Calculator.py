@@ -1,4 +1,4 @@
-# Here's a new update by Lihakk
+# Here is a new update by Lihakk
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
